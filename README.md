@@ -1,6 +1,6 @@
 # Expense Tracker
 
-An expense tracker that allows users to add expenses and view charts filtered by year.
+An expense tracker that allows users to add expenses and view charts filtered by year
 
 [DEMO🚀](https://xokryzx.github.io/expense-tracker/)
 
