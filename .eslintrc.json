@@ -9,5 +9,7 @@
     "sourceType": "module"
   },
   "plugins": ["react", "html"],
-  "rules": {}
+  "rules": {
+    "react/prop-types": "off"
+  }
 }
